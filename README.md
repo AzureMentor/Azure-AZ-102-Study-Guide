@@ -1,6 +1,6 @@
 # AZ-102: Azure Administrator Study Guide
 ## Skills measured from AZ-100: Microsoft Azure Infrastructure and Deployment
-* Manage Azure subscriptions and resources (5-10%)
+* [Manage Azure subscriptions and resources (5-10%)](1%20-%20Manage%20Azure%20subscriptions%20and%20resources%20(5-10%).md)
 * Implement and manage storage (5-10%)
 * Configure and manage virtual networks (15-20%)
 * Manage identities (15-20%)
