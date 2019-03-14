@@ -2,7 +2,7 @@
 ## Configure serverless computing
 May include but not limited to:
 * Create and manage objects
-* manage a Logic App resource
-* manage Azure Function app settings
-* manage Event Grid
-* manage Service Bus
+* Manage a Logic App resource
+* Manage Azure Function app settings
+* Manage Event Grid
+* Manage Service Bus

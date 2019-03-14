@@ -2,6 +2,6 @@
 ## Configure Azure files
 May include but not limited to:
 * Create Azure file share
-* create Azure File Sync service
-* create Azure sync group
-* troubleshoot Azure File Sync
+* Create Azure File Sync service
+* Create Azure sync group
+* Troubleshoot Azure File Sync

@@ -2,5 +2,5 @@
 ## Monitor and manage networking
 May include but not limited to:
 * Monitor on-premises connectivity
-* use network resource monitoring and Network Watcher
-* manage external networking and virtual network connectivity
+* Use network resource monitoring and Network Watcher
+* Manage external networking and virtual network connectivity

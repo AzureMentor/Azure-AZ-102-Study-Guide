@@ -2,13 +2,13 @@
 ## Analyze resource utilization and consumption
 May include but not limited to:
 * Configure diagnostic settings on resources
-* create baseline for resources
-* create and rest alerts
-* analyze alerts across subscription
-* analyze metrics across subscription
-* create action groups
-* monitor for unused resources
-* monitor spend
-* report on spend
-* utilize Log Search query functions
-* view alerts in Log Analytics
+* Create baseline for resources
+* Create and rest alerts
+* Analyze alerts across subscription
+* Analyze metrics across subscription
+* Create action groups
+* Monitor for unused resources
+* Monitor spend
+* Report on spend
+* Utilize Log Search query functions
+* View alerts in Log Analytics

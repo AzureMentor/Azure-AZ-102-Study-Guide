@@ -2,19 +2,19 @@
 ## Evaluate migration scenarios by using Azure Migrate
 May include but not limited to:
 * Discover and assess environment
-* identify workloads that can and cannot be deployed
-* identify ports to open
-* identify changes to network
-* identify if target environment is supported
-* setup domain accounts and credentials
+* Identify workloads that can and cannot be deployed
+* Identify ports to open
+* Identify changes to network
+* Identify if target environment is supported
+* Setup domain accounts and credentials
 
 ## Migrate servers to Azure
 May include but not limited to:
 * Migrate by using Azure Site Recovery (ASR)
-* migrate using P2V
-* configure storage
-* create a backup vault
-* prepare source and target environments
-* backup and restore data
-* deploy Azure Site Recovery (ASR) agent
-* prepare virtual network
+* Migrate using P2V
+* Configure storage
+* Create a backup vault
+* Prepare source and target environments
+* Backup and restore data
+* Deploy Azure Site Recovery (ASR) agent
+* Prepare virtual network
