@@ -13,3 +13,5 @@ May include but not limited to:
 * Configure federation and single sign-on
 * Manage Azure AD Connect
 * Manage password sync and writeback
+
+[Return to Table of Contents](README.md)

@@ -11,3 +11,5 @@ May include but not limited to:
 * Configure Azure DNS
 * Configure custom DNS settings
 * Configure DNS zones
+
+[Return to Table of Contents](README.md)

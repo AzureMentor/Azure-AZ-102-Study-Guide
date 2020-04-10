@@ -5,3 +5,5 @@ May include but not limited to:
 * Create Azure File Sync service
 * Create Azure sync group
 * Troubleshoot Azure File Sync
+
+[Return to Table of Contents](README.md)

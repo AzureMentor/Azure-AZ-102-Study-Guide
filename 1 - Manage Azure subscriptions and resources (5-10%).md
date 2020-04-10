@@ -12,3 +12,5 @@ May include but not limited to:
 * Report on spend
 * Utilize Log Search query functions
 * View alerts in Log Analytics
+
+[Return to Table of Contents](README.md)

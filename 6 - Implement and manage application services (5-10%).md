@@ -6,3 +6,5 @@ May include but not limited to:
 * Manage Azure Function app settings
 * Manage Event Grid
 * Manage Service Bus
+
+[Return to Table of Contents](README.md)

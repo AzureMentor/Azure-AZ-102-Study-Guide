@@ -18,3 +18,5 @@ May include but not limited to:
 * Backup and restore data
 * Deploy Azure Site Recovery (ASR) agent
 * Prepare virtual network
+
+[Return to Table of Contents](README.md)
